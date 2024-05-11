@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rifatulhimel
-- 👀 I’m interested in data science, data analytics, artificial intelligence
+- 👀 I’m interested in artificial intelligence, data science, data analytics
 - 🌱 I’m currently learning the application of AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
