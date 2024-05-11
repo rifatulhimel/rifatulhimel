@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rifatulhimel
 - 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning application of AI
+- 🌱 I’m currently learning the application of AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him/his
