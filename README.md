@@ -2,9 +2,7 @@
 - 👀 I’m interested in artificial intelligence, data science, data analytics
 - 🌱 I’m currently learning the application of AI
 - 💞️ I’m looking to collaborate on AI-related projects
-- 📫 How to reach me ...
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: ...
 
 <!---
 rifatulhimel/rifatulhimel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
