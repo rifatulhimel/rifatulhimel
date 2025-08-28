@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rifatulhimel
-- 👀 I’m interested in artificial intelligence, data science, data analytics
+- 👀 I’m interested in Human subjects, education, cognitive research, artificial intelligence, data science, and data analytics
 - 🌱 I’m currently learning the application of AI
 - 💞️ I’m looking to collaborate on AI-related projects
 - 😄 Pronouns: he/him/his
