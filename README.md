@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rifatulhimel
+- 👋 Hi, I’m Rifatul Himel
 - 👀 I’m interested in Human subjects, education, cognitive science research, artificial intelligence, data science, and data analytics
 - 🌱 I’m currently studying all of the above
 - 💞️ I’m looking to collaborate on Cognitive-AI-related projects
